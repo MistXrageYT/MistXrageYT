@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SohanRajput
+- 👋 Hi, I’m @MistXrageYT
 - 👀 I’m interested in gaming, programming and making content.
 - 🌱 I’m currently learning editing, gfx, javascript, reactjs and more.
 - 📫 How to reach me ...
